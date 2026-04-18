@@ -1,0 +1,6 @@
+{
+  "name": "daddymood",
+  "description": "AI-powered mood-to-playlist generator that creates custom song ideas based on your current feelings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
