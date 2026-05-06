@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/63c8e93a-6bcc-4598-af5d-dc018
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+it's an app that helps listen to music based on mood 
